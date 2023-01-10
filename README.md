@@ -1,3 +1,2 @@
-Blast for protein
-Blast in Swissprot database
+Blast for protein in Swissprot database
 
